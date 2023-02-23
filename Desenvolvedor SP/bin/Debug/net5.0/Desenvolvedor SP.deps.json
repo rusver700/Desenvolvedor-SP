@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Desenvolvedor SP/1.0.0": {
+        "runtime": {
+          "Desenvolvedor SP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desenvolvedor SP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
